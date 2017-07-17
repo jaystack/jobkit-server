@@ -1,0 +1,5 @@
+{
+  "storagePath": "../../store",
+  "reposPath": "../../repos",
+  "pollInterval": 5000
+}
