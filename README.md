@@ -1,1 +1,1 @@
-# jobkits
+# jobkit-server
